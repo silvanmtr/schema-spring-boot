@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: schema-spring-boot
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: silvan
+Implementation-Vendor-Id: com.schema
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/schema-spring-boot/
+Created-By: Maven Integration for Eclipse
+
